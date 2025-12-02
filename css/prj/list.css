@@ -1,0 +1,9 @@
+/* list.css styles the HTML <ul> and <ol> elements 
+  ========================================================================== */
+	 
+  body > header > nav > ul.navlist li 
+  {
+    display: inline;
+    margin-right: 1em;
+  }
+  
